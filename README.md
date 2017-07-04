@@ -1,2 +1,2 @@
 # diving-laravel-zh
-翻译https://divinglaravel.com中的文章
+https://divinglaravel.com 中部分文章的翻译
